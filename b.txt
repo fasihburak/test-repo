@@ -1,3 +1,4 @@
 Some content
 
 This line was added on Github
+Added some new content
